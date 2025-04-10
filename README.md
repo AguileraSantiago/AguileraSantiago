@@ -2,6 +2,10 @@
 
 ###
 
+<img align="right" height="150" src="[https://media.giphy.com/media/](https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif)"  />
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
@@ -47,14 +51,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/AguileraSantiago/AguileraSantiago/output/snake.svg" alt="Snake animation" />
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AguileraSantiago/AguileraSantiago/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AguileraSantiago/AguileraSantiago/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AguileraSantiago/AguileraSantiago/output/pacman-contribution-graph.svg">
-</picture>
-
-###
