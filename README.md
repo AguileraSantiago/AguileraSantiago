@@ -51,6 +51,3 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/AguileraSantiago/AguileraSantiago/output/snake.svg" alt="Snake animation" />
-
-###
