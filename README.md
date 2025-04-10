@@ -1,6 +1,6 @@
-<h2 align="left">💫 About Me<br><br>Actualmente cursando la Tecnicatura Universitaria en Programación de la Universidad Tecnológica Nacional con el 80% de la carrera aprobada.<br>Destacado por mi proactividad, aprendizaje rápido, capacidad de adaptación a nuevos desafíos y trabajo en equipo. Soy organizado, dinámico y busco unirme a una empresa donde pueda aplicar mis conocimientos, aportar soluciones innovadoras y seguir creciendo profesionalmente.
+<h2 align="left">💫 About Me<br><br>Actualmente cursando la Tecnicatura Universitaria en Programación de la Universidad Tecnológica Nacional con el 80% de la carrera aprobada.<br>Destacado por mi proactividad, aprendizaje rápido, capacidad de adaptación a nuevos desafíos y trabajo en equipo. Soy organizado, dinámico y busco unirme a una empresa donde pueda aplicar mis conocimientos, aportar soluciones innovadoras y seguir creciendo profesionalmente. <br><br>
 
-👨‍💻 Skills
+👨‍💻 Skills ↓
 </h2>
 
 ###
