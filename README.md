@@ -1,5 +1,9 @@
 # 💫 About Me:
-Dinámico y creativo profesional de 25 años de edad, actualmente cursando la Tecnicatura Universitaria en Programación de la Universidad Tecnológica Nacional con el 50% de la carrera aprobada, con excelentes habilidades de comunicación y trabajo en equipo. Proactivo, organizado y con un fuerte compromiso hacia el crecimiento personal y profesional, busco integrarme a una empresa para aportar valor y evolucionar juntos.
+Destacado por mi proactividad, aprendizaje rápido, capacidad de adaptación a nuevos desafíos y trabajo en equipo. 
+Actualmente cursando la Tecnicatura Universitaria en Programación de la Universidad Tecnológica Nacional con el 80% de la carrera aprobada.
+Soy organizado, dinámico y busco unirme a una empresa donde pueda aplicar mis conocimientos, aportar soluciones innovadoras y seguir creciendo profesionalmente.
+
+
 
 
 ## 🌐 Socials:
