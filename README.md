@@ -1,4 +1,11 @@
-<h2 align="left">💫 About Me<br><br>Actualmente cursando la Tecnicatura Universitaria en Programación de la Universidad Tecnológica Nacional con el 80% de la carrera aprobada.<br>Destacado por mi proactividad, aprendizaje rápido, capacidad de adaptación a nuevos desafíos y trabajo en equipo. Soy organizado, dinámico y busco unirme a una empresa donde pueda aplicar mis conocimientos, aportar soluciones innovadoras y seguir creciendo profesionalmente. <br><br>
+<h2 align="left">💫 About Me<br><br>Soy desarrollador de software en formación, con una fuerte pasión por resolver problemas mediante tecnología y construir soluciones eficientes y escalables.
+
+Cuento con conocimientos en desarrollo backend y frontend, utilizando herramientas y tecnologías como: 
+C# | .NET | ASP.NET | SQL Server | Programación Orientada a Objetos (POO) | HTML | CSS | JavaScript | React.js | Bootstrap | PowerShell | Git | GitHub | SCRUM | MVC.
+
+Me defino como una persona proactiva, responsable y con gran capacidad de adaptación a nuevos desafíos. Aprendo rápido y disfruto trabajar en equipo, siempre con el objetivo de aportar valor y seguir creciendo profesionalmente.
+
+Actualmente, me encuentro en búsqueda de oportunidades que me permitan desarrollar mi potencial técnico y humano en entornos colaborativos e innovadores. <br><br>
 
 👨‍💻 Skills ↓
 </h2>
