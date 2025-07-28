@@ -1,9 +1,6 @@
 <h2 align="left">💫 About Me<br><br>Soy desarrollador de software en formación, con una fuerte pasión por resolver problemas mediante tecnología y construir soluciones eficientes y escalables.
 
-Cuento con conocimientos en desarrollo backend y frontend, utilizando herramientas y tecnologías como: 
-C# | .NET | ASP.NET | SQL Server | Programación Orientada a Objetos (POO) | HTML | CSS | JavaScript | React.js | Bootstrap | PowerShell | Git | GitHub | SCRUM | MVC.
-
-Me defino como una persona proactiva, responsable y con gran capacidad de adaptación a nuevos desafíos. Aprendo rápido y disfruto trabajar en equipo, siempre con el objetivo de aportar valor y seguir creciendo profesionalmente.
+Me caracterizo por ser proactivo, responsable y tener gran capacidad de adaptación, con una alta capacidad de aprendizaje y resiliencia. Disfruto trabajar en equipo, aportando valor en cada proyecto y enfocado en seguir creciendo profesionalmente. 
 
 Actualmente, me encuentro en búsqueda de oportunidades que me permitan desarrollar mi potencial técnico y humano en entornos colaborativos e innovadores. <br><br>
 
@@ -16,6 +13,10 @@ Actualmente, me encuentro en búsqueda de oportunidades que me permitan desarrol
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aspnetcore/aspnetcore-original.svg" height="30" alt="aspnetcore logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/entityframework/entityframework-original.svg" height="30" alt="entityframework logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
   <img width="12" />
