@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">Soy desarrollador de software en formación, con una fuerte pasión por resolver problemas mediante tecnología y construir soluciones eficientes y escalables.<br>Me caracterizo por ser proactivo, responsable y tener gran capacidad de adaptación, con una alta capacidad de aprendizaje y resiliencia. Disfruto trabajar en equipo, aportando valor en cada proyecto y enfocado en seguir creciendo profesionalmente.<br><br>Actualmente, me encuentro en búsqueda de oportunidades que me permitan desarrollar mi potencial técnico y humano en entornos colaborativos e innovadores.</p>
+<p align="left">Soy desarrollador de software, con una fuerte pasión por resolver problemas mediante tecnología y construir soluciones eficientes y escalables.<br>Me caracterizo por ser proactivo, responsable y tener gran capacidad de adaptación, con una alta capacidad de aprendizaje y resiliencia. Disfruto trabajar en equipo, aportando valor en cada proyecto y enfocado en seguir creciendo profesionalmente.<br><br>Actualmente, me encuentro en búsqueda de oportunidades que me permitan desarrollar mi potencial técnico y humano en entornos colaborativos e innovadores.</p>
 
 ###
 
